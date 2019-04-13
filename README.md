@@ -1,4 +1,4 @@
-# vue-test
+# 使用Vue-cli3搭建的demo，包含了typescript、vue-router、i18n、iview
 
 ## Project setup
 ```
